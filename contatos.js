@@ -1,5 +1,5 @@
 const pool = require('./conexao')
-const userLogado = require('./libs/userlogado')
+const userLogado = require('./libs/userLogado')
 module.exports = {
    listar(req, res) {    
 
