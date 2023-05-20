@@ -1,0 +1,17 @@
+EXPRESS
+
+https://github.com/instrutorvilson/node-2/blob/main/Aula1/package.json
+
+npm init -y
+
+npm install express
+
+npm -v
+
+
+(req,  == requisição
+res == resposta
+
+FASTIFY -- https://www.fastify.io/
+
+
